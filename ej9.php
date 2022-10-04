@@ -8,7 +8,7 @@ function calculoIMC($masa, $altura){
 
     return $salida;
 }
-
+//holaaaaaaaaaaaaaa
 //Este módulo clasifica la altura en base a la OMS, dependiendo del IMC
 
 function clasificacionOMS ($IMC){
